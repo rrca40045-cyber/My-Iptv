@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png",beIN SPORTS 1 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152877.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png",beIN SPORTS 2 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152876.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png",beIN SPORTS 3 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152875.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png",beIN SPORTS 4 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152874.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png",beIN SPORTS 5 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152873.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png",beIN SPORTS 6 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152872.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png",beIN SPORTS 7 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152871.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png",beIN SPORTS 8 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152870.ts
+
+#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png",beIN SPORTS 9 4K
+http://123viva.ottc.pro:80/live/BU6a412qzVueEsR/aavrwzmcpbVn3Ng/1152869.ts
